@@ -1,9 +1,5 @@
 Este é um aplicativo de página única desenvolvido usando AngularJS e Marvel API (http://developer.marvel.com).
-Este aplicativo tem como alvo os fãs da Marvel e atualmente se concentra em 'Personagens'.
-
-Versão:
-- Versão inicial: 1.0
-- Versão atual: 1.0
+Este aplicativo tem como alvo os fãs da Marvel e atualmente se concentra em 'Personagens'. com um limitador de resultados na pesquisa
 
 Iniciar:
 1. Faça login e obtenha uma chave de API da Marvel (http://developer.marvel.com)
